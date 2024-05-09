@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Honeypot project](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
