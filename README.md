@@ -31,7 +31,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <h2>👨‍💻 cybersecurity Projects:</h2>
 
-  - [Honeypot project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Honeypot project](https://github.com/wil1a4/Honeypot-project/blob/main/README.md)
 
 
 <h2>📄 Certifications</h2>
