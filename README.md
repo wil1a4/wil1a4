@@ -36,6 +36,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <h2>📄 Certifications</h2>
 
+- [CompTIA Security+](https://drive.google.com/file/d/1Cptr_rNdUT7tNEvl_pride4tW9EPl8Wh/view?usp=drive_link)
+
 - [Blue Team Level 1 ](https://drive.google.com/file/d/17e3dfx1kQrMcgxIzqhsEiFDcDVY0mAc4/view?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
